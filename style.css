@@ -59,6 +59,10 @@ button {
   padding: 20px auto;
   border: 1px;
 }
+button a {
+  text-decoration: none;
+  color: white;
+}
 table {
   margin-left: 0px;
 }
